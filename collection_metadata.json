@@ -1,0 +1,117 @@
+{
+  "name": "404MEOW™",
+  "description": "404MEOW™\nThe first Ordinals collection with infinite, animated PFPs.\n3000 chaotic cats. Each one dumber, weirder, and more cursed than the last.\nNo soul. No utility. Just HTML, SVGs, and raw charm — inscribed forever on Bitcoin.",
+  "creator": "404MEOW™",
+  "royalty": 0.05,
+  "image": "https://404meow.xyz/assets/banner.png",
+  "links": {
+    "website": "https://404meow.xyz",
+    "twitter": "https://twitter.com/404MEOWxyz"
+  },
+  "traits": [
+    {
+      "name": "Rainbow Puke",
+      "type": "boolean"
+    },
+    {
+      "name": "Fire Puke",
+      "type": "boolean"
+    },
+    {
+      "name": "Slime Mouth",
+      "type": "boolean"
+    },
+    {
+      "name": "Eyes Only",
+      "type": "boolean"
+    },
+    {
+      "name": "DeadCat",
+      "type": "boolean"
+    },
+    {
+      "name": "Laser Eyes Red",
+      "type": "boolean"
+    },
+    {
+      "name": "Laser Eyes Green",
+      "type": "boolean"
+    },
+    {
+      "name": "Laser Eyes Toxix Magenta",
+      "type": "boolean"
+    },
+    {
+      "name": "Laser Eyes Cosmic Aqua",
+      "type": "boolean"
+    },
+    {
+      "name": "Laser Eyes Inferno Red",
+      "type": "boolean"
+    },
+    {
+      "name": "Cap",
+      "type": "boolean"
+    },
+    {
+      "name": "Monkey Tribute",
+      "type": "boolean"
+    },
+    {
+      "name": "Earring",
+      "type": "boolean"
+    },
+    {
+      "name": "Halo",
+      "type": "boolean"
+    },
+    {
+      "name": "Halo Animated",
+      "type": "boolean"
+    },
+    {
+      "name": "Eye Type (Round / Half)",
+      "type": "boolean"
+    },
+    {
+      "name": "Eyebrows (half)",
+      "type": "boolean"
+    },
+    {
+      "name": "Silver Helmet",
+      "type": "boolean"
+    },
+    {
+      "name": "Silver Mode",
+      "type": "boolean"
+    },
+    {
+      "name": "Dark Mode",
+      "type": "boolean"
+    },
+    {
+      "name": "Acid Mode",
+      "type": "boolean"
+    },
+    {
+      "name": "Party Mode",
+      "type": "boolean"
+    },
+    {
+      "name": "Art Mode",
+      "type": "boolean"
+    },
+    {
+      "name": "Skeleton Mode",
+      "type": "boolean"
+    },
+    {
+      "name": "Sunglasses (Black)",
+      "type": "boolean"
+    },
+    {
+      "name": "Sunglasses (Multi)",
+      "type": "boolean"
+    }
+  ]
+}
